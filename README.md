@@ -42,7 +42,7 @@
 
 .
 
-پیچ اینستاگرام
+پیج اینستاگرام
 
 [![Instagram](https://img.shields.io/badge/-Instagram-red?color=white&logo=instagram&logoColor=black)](https://www.instagram.com/iranfletdev)
 
