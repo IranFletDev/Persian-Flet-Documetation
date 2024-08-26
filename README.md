@@ -18,7 +18,7 @@
 
 اومدیم یک فریمورک نوظهور و جدید از پایتون رو بهتون معرفی کنیم که اسمش غریبه برای همه چون تازه اومده
 
-فریمورک Flet
+flet فریمورک 
 
 این فریمورک مثل فلاتر هستش و جالب تر اینکه از فلاتر قدرت میگیره
 شما یکبار کد مینویسی و خروجیتونو توی انواع سیستم عامل ها میگیرین
@@ -42,7 +42,7 @@
 
 .
 
-پیج اینستاگرام
+پیچ اینستاگرام
 
 [![Instagram](https://img.shields.io/badge/-Instagram-red?color=white&logo=instagram&logoColor=black)](https://www.instagram.com/iranfletdev)
 
@@ -52,8 +52,11 @@
 
 ## تهیه کنندگان
 
-- [@امیرعلی بهرامجردی](https://github.com/AmirAli-BahramJerdi)
-
+- [@امیرعلی بهرامجردی - Amirali Bahramjerdi](https://github.com/AmirAli-BahramJerdi)
+- [@مبینا قدیمی - Mobina Ghadimi](https://github.com/mobinaghadimi)
+- [@فاطمه محمدی - Fateme Mohammadi](https://github.com/FATEMEmm)
+- [@محمدجواد عسکرپور - Mohammadjavad Askarpour](https://github.com/m-askari107)
+- [@عرفان رزاز - Erfan Razzaz](https://github.com/ErfanRazzaz)
 .
 
 ## مستندات رسمی
